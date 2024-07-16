@@ -8,8 +8,9 @@
 <br/>
       
 ## :family_man_man_boy_boy: 팀원 소개
+![20240716180542](https://github.com/user-attachments/assets/f1719046-449d-4c9b-a1a6-33c7a13239ee)
 
-![image](https://github.com/user-attachments/assets/9a4ffb7c-6b0b-4aca-a73a-fa4dfc971bd5)
+
 
 
 <br/>
