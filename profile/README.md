@@ -53,7 +53,8 @@
   
 ## :bulb: 주요 기능
 
-![image](https://github.com/user-attachments/assets/2b63f5e1-33a0-4b7d-877d-83f4edf85184)
+![20240716173850](https://github.com/user-attachments/assets/7d6389d7-bcc1-47f5-b5a4-e4556a43557a)
+
 
 
 
