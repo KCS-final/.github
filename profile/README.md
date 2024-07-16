@@ -13,7 +13,8 @@
     
 ## :page_with_curl: 프로젝트 개요
 
-![image](https://github.com/user-attachments/assets/2c388dc1-b80e-4402-96fe-f409a0a8b5cf)
+![image](https://github.com/user-attachments/assets/2c388dc1-b80e-4402-96fe-f409a0a8b5cf) 
+
 
 <br/>
 <br/>
