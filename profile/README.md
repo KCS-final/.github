@@ -6,7 +6,8 @@
       
 ## :family_man_man_boy_boy: 팀원 소개
 
-![image](https://github.com/user-attachments/assets/85b4ffaa-95b5-40c3-9bf3-2ba8f1cdb617)
+![image](https://github.com/user-attachments/assets/9a4ffb7c-6b0b-4aca-a73a-fa4dfc971bd5)
+
 
 <br/>
 <br/>
