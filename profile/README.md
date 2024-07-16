@@ -51,5 +51,10 @@
   
 ## :bulb: 주요 기능
 
+![image](https://github.com/user-attachments/assets/2b63f5e1-33a0-4b7d-877d-83f4edf85184)
+
+
 
 ## :tv: 시연 영상
+
+https://www.youtube.com/watch?v=S5RvQMaOAEU
