@@ -48,7 +48,7 @@
 
 ### 아키텍쳐
 ![최종아키텍처](https://github.com/user-attachments/assets/fb3b0e32-ea51-4971-842f-d81d37cb21ae)
-![image](https://github.com/user-attachments/assets/cec5d342-67aa-4a0d-89ea-711f90b89ed2)
+
 
 
 <br/>
